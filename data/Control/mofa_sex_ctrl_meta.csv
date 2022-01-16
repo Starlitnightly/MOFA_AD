@@ -1,0 +1,864 @@
+sample,cell_type,Sample.ID,Batch,Age,Sex,PMI,Tangle.Stage,Plaque.Stage,Diagnosis,RIN,delli,n_genes,n_genes_by_counts,total_counts,total_counts_mt,pct_counts_mt
+cell_4123,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2819,2811,7712,3,0.038900416
+cell_1646,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3261,3243,7878,0,0
+cell_2577,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2026,2022,5034,0,0
+cell_21552,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3283,3271,12037,1,0.008307718
+cell_6804,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,8554,8469,50512,6,0.011878366
+cell_14738,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3481,3472,12190,1,0.008203446
+cell_4599,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3239,3227,10794,0,0
+cell_22265,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2882,2871,8045,0,0
+cell_13799,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2133,2120,5453,0,0
+cell_3450,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3348,3331,10993,12,0.10916038
+cell_13858,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2635,2624,8006,5,0.06245316
+cell_15898,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6181,6141,24724,33,0.13347355
+cell_2701,OPC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2472,2461,5865,5,0.085251495
+cell_17451,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2054,2051,4676,2,0.0427716
+cell_625,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2182,2178,5075,1,0.019704435
+cell_188,MG,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2003,1989,4354,7,0.1607717
+cell_4407,EX,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,9093,8976,79926,1,0.001251157
+cell_16263,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4687,4658,16990,20,0.1177163
+cell_2764,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3841,3811,11450,2,0.01746725
+cell_8853,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3168,3159,10420,0,0
+cell_16022,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4134,4103,12811,16,0.124892674
+cell_8978,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2859,2854,7886,2,0.0253614
+cell_20509,INH,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5800,5757,26381,22,0.08339335
+cell_8815,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2697,2687,7108,10,0.14068656
+cell_21184,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2806,2788,8333,1,0.01200048
+cell_7609,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3113,3102,8058,3,0.03723008
+cell_14925,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3537,3516,9644,2,0.020738281
+cell_13490,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2587,2576,6751,1,0.01481262
+cell_15753,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,8603,8485,65733,3,0.004563917
+cell_6119,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3120,3107,7645,0,0
+cell_12127,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3107,3096,9386,6,0.06392499
+cell_22796,ODC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,2364,2359,6433,1,0.015544847
+cell_15866,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2639,2636,6987,1,0.014312294
+cell_11627,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3129,3123,8685,5,0.057570525
+cell_9156,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3376,3362,9299,3,0.032261536
+cell_22207,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3475,3452,10078,2,0.019845208
+cell_13977,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3833,3808,10771,12,0.11141027
+cell_11166,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2436,2428,5882,2,0.03400204
+cell_5857,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5249,5198,18986,42,0.22121564
+cell_8263,ODC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,2926,2913,6657,13,0.19528316
+cell_13785,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2011,1999,3493,2,0.057257373
+cell_8994,INH,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4856,4829,19087,3,0.015717505
+cell_10698,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2650,2648,7187,10,0.13914011
+cell_21179,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2032,2027,4410,10,0.22675738
+cell_15320,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2912,2906,8046,3,0.037285607
+cell_7087,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2644,2633,6591,2,0.03034441
+cell_4498,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,6833,6774,33888,2,0.005901794
+cell_3567,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3190,3176,9987,1,0.010013017
+cell_23089,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2997,2990,8877,1,0.011265066
+cell_17765,EX,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,8180,8094,52324,4,0.007644676
+cell_18404,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5748,5690,27352,37,0.13527347
+cell_12824,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2117,2112,5088,6,0.11792453
+cell_16534,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6901,6844,35961,9,0.025027111
+cell_11875,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2155,2152,5240,10,0.1908397
+cell_9996,OPC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3234,3221,7949,2,0.025160398
+cell_21512,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4801,4775,20414,2,0.009797198
+cell_10228,ASC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,3679,3653,14913,5,0.03352779
+cell_10894,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2263,2257,5115,2,0.039100684
+cell_7042,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2649,2641,7172,5,0.06971556
+cell_12940,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,8187,8102,49484,50,0.10104276
+cell_741,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2315,2306,5983,9,0.15042621
+cell_10273,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2085,2080,5080,2,0.03937008
+cell_17197,OPC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6302,6263,28027,14,0.04995183
+cell_22364,OPC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,4296,4276,15279,3,0.019634793
+cell_18561,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,5276,5256,17291,4,0.023133423
+cell_15087,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2774,2768,7973,5,0.062711656
+cell_7742,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2539,2528,6641,1,0.015057973
+cell_11817,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2235,2224,5876,2,0.03403676
+cell_6053,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3004,2996,8189,7,0.085480526
+cell_7476,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3556,3530,9714,0,0
+cell_5125,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3024,3011,8383,4,0.04771561
+cell_11940,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2782,2776,7616,2,0.026260506
+cell_5116,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3009,2998,9626,2,0.020777062
+cell_6200,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2669,2662,8201,2,0.02438727
+cell_6916,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2763,2758,7524,5,0.066454016
+cell_7932,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3087,3075,10703,8,0.0747454
+cell_13186,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2385,2381,6228,2,0.032113038
+cell_5564,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2894,2886,8150,2,0.024539879
+cell_23468,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2742,2734,6987,10,0.14312294
+cell_14145,INH,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,3402,3390,8563,36,0.4204134
+cell_11033,OPC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,4490,4471,17253,56,0.32458124
+cell_9756,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2952,2940,6697,5,0.074660294
+cell_23337,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3163,3162,8908,2,0.022451729
+cell_11461,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2805,2798,8061,4,0.049621634
+cell_4190,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,7184,7107,43133,97,0.2248858
+cell_17840,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3120,3107,8188,8,0.097703956
+cell_17809,ASC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,2352,2340,6776,0,0
+cell_706,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4234,4212,15254,2,0.013111315
+cell_22151,EX,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,7699,7626,44826,9,0.020077635
+cell_15445,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3345,3338,10370,5,0.048216008
+cell_22147,MG,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2082,2058,3877,7,0.18055198
+cell_12833,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2514,2510,6574,3,0.04563432
+cell_23100,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2575,2572,6636,12,0.18083183
+cell_21668,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2165,2164,5749,3,0.052182987
+cell_8561,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2999,2989,9003,15,0.16661114
+cell_16224,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3472,3452,10274,12,0.11679969
+cell_1918,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3134,3122,10535,6,0.056953013
+cell_18610,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2324,2317,5822,2,0.034352455
+cell_21774,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2229,2224,5262,2,0.038008362
+cell_17397,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2715,2703,7469,4,0.05355469
+cell_1902,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3017,3008,8720,4,0.04587156
+cell_22726,EX,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,7989,7916,59702,11,0.018424843
+cell_2157,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2888,2869,7464,27,0.36173633
+cell_23479,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2652,2640,6850,19,0.27737227
+cell_10328,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2665,2657,7750,0,0
+cell_5056,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2530,2518,5729,3,0.05236516
+cell_22488,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3138,3125,9676,3,0.031004546
+cell_15323,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2801,2791,8428,1,0.011865211
+cell_1810,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3732,3718,11530,10,0.08673027
+cell_5027,INH,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,6617,6565,33127,19,0.057355028
+cell_20478,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,4318,4293,12129,5,0.041223515
+cell_6394,ASC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,3711,3686,11855,5,0.042176295
+cell_20575,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4044,4022,12660,2,0.015797788
+cell_1852,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2509,2505,5838,1,0.017129155
+cell_7642,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,7675,7604,46138,98,0.21240625
+cell_15791,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2701,2691,6733,1,0.01485222
+cell_5969,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2172,2162,5198,1,0.019238168
+cell_6570,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2567,2559,7372,4,0.05425936
+cell_19926,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2965,2958,8723,6,0.06878367
+cell_22,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2069,2064,4758,7,0.14712064
+cell_21854,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3360,3348,9908,2,0.020185709
+cell_16897,MG,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,2043,2025,4175,8,0.19161677
+cell_54,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3696,3682,12626,0,0
+cell_2027,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3423,3404,8155,0,0
+cell_6505,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2561,2555,6645,2,0.030097816
+cell_4833,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2487,2481,7033,1,0.014218683
+cell_12545,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2357,2349,5276,13,0.24639878
+cell_22779,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4346,4308,14771,0,0
+cell_12296,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2643,2638,6436,11,0.1709136
+cell_14697,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4387,4372,17672,0,0
+cell_1252,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3666,3652,12721,0,0
+cell_7117,ASC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,4282,4260,16012,12,0.07494379
+cell_22201,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2590,2576,5656,2,0.03536068
+cell_4159,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2615,2607,6689,3,0.044849753
+cell_12842,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2947,2935,8363,2,0.023914864
+cell_14043,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3325,3317,11194,3,0.02680007
+cell_16998,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2641,2620,5309,0,0
+cell_23334,MG,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2358,2334,5538,1,0.01805706
+cell_22314,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3437,3425,11147,1,0.008971023
+cell_22637,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3600,3589,12949,0,0
+cell_16653,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3458,3449,10164,6,0.059031874
+cell_3370,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4841,4813,14896,20,0.13426423
+cell_10869,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2079,2075,4674,2,0.042789903
+cell_12251,OPC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2382,2372,5086,1,0.019661818
+cell_2187,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2647,2633,7473,17,0.22748563
+cell_18399,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2740,2734,6828,21,0.30755714
+cell_15574,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3329,3323,10550,6,0.05687204
+cell_21605,ODC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,2850,2844,7808,10,0.12807377
+cell_22627,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2258,2253,6116,1,0.016350556
+cell_14086,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2997,2990,8189,0,0
+cell_5811,ASC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,3587,3562,9964,5,0.05018065
+cell_2366,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2116,2110,4762,1,0.020999579
+cell_22893,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,7868,7788,44864,0,0
+cell_8964,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2467,2462,6891,7,0.101581775
+cell_21498,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3243,3233,8974,21,0.23400936
+cell_15326,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3774,3764,11974,9,0.07516286
+cell_17724,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2990,2982,8531,8,0.093775645
+cell_14406,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,7644,7580,45995,25,0.054353733
+cell_8312,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3545,3527,12280,27,0.2198697
+cell_1637,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6886,6834,38186,4,0.010475043
+cell_11190,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2284,2277,5460,5,0.09157509
+cell_23634,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,5191,5158,19988,0,0
+cell_12622,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3825,3800,11246,1,0.00889205
+cell_21200,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2072,2068,5194,2,0.038505968
+cell_13666,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2221,2212,4677,6,0.12828737
+cell_21592,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2015,2010,4585,6,0.1308615
+cell_14616,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2971,2956,8983,6,0.06679283
+cell_7153,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2516,2505,5452,6,0.11005136
+cell_2919,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2785,2781,8479,1,0.011793844
+cell_14566,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3444,3434,11179,5,0.044726722
+cell_9201,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3576,3560,13777,8,0.058067795
+cell_4174,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2927,2912,6973,7,0.1003872
+cell_398,ODC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,3266,3255,9328,7,0.07504288
+cell_7707,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2401,2394,6435,2,0.03108003
+cell_23929,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,9579,9456,82346,6,0.007286329
+cell_20470,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4475,4447,14032,18,0.12827821
+cell_2916,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3178,3170,9702,34,0.3504432
+cell_14311,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6065,6028,27786,11,0.03958828
+cell_2541,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2207,2201,4995,0,0
+cell_10991,MG,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2017,1994,3950,1,0.025316456
+cell_21950,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3735,3721,12947,2,0.015447594
+cell_9213,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2773,2761,7876,6,0.0761808
+cell_8657,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3115,3104,9009,1,0.011100011
+cell_20977,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,6078,6031,24292,34,0.13996378
+cell_24099,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2523,2516,6047,0,0
+cell_15638,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2493,2485,6017,3,0.049858734
+cell_11776,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2500,2494,6685,0,0
+cell_447,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3901,3889,12826,4,0.031186651
+cell_20259,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2547,2542,6525,0,0
+cell_13619,OPC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3078,3066,8577,8,0.09327271
+cell_17624,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2514,2510,7655,6,0.078380145
+cell_5610,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3317,3307,8938,10,0.11188185
+cell_255,OPC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,3943,3926,12191,13,0.10663604
+cell_5122,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2530,2524,6898,0,0
+cell_14619,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2481,2479,7472,2,0.026766594
+cell_10619,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2703,2697,7026,0,0
+cell_12102,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4022,3993,11853,10,0.08436683
+cell_3069,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6636,6581,37946,4,0.010541296
+cell_17820,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3866,3840,11361,28,0.24645717
+cell_14332,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,7371,7298,53179,3,0.005641324
+cell_41,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2262,2259,6297,0,0
+cell_3915,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2645,2638,7912,0,0
+cell_14547,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,3982,3956,12323,3,0.024344722
+cell_2721,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3078,3065,9475,4,0.042216357
+cell_19566,OPC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4262,4238,15420,22,0.14267185
+cell_14413,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3310,3299,12935,3,0.023192888
+cell_7848,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2457,2453,6587,1,0.015181418
+cell_24129,INH,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,8383,8287,57470,90,0.15660346
+cell_23621,ODC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,3446,3427,10412,27,0.25931618
+cell_15419,INH,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,7034,6994,35720,8,0.022396415
+cell_7353,INH,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,6034,5997,25742,24,0.093232855
+cell_23388,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2046,2040,4313,4,0.092742875
+cell_3142,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3100,3084,6810,12,0.17621146
+cell_15768,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2440,2428,6525,0,0
+cell_18167,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2185,2178,5426,1,0.018429782
+cell_6471,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2305,2292,5778,4,0.069228105
+cell_978,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2901,2889,8326,10,0.120105684
+cell_4661,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2581,2577,5985,9,0.15037595
+cell_16498,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2792,2783,7483,1,0.013363625
+cell_7541,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2185,2174,4747,4,0.08426374
+cell_7473,ASC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,4010,3985,13844,1,0.007223346
+cell_2258,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3832,3808,10516,8,0.076074556
+cell_12391,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,6536,6498,28331,61,0.21531186
+cell_12544,MG,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,2475,2454,5523,6,0.10863661
+cell_6256,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2888,2882,8104,1,0.012339586
+cell_12335,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2056,2052,4416,12,0.27173913
+cell_23237,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3680,3670,12286,8,0.06511476
+cell_24,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2924,2913,9019,10,0.11087704
+cell_5889,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2579,2573,6799,0,0
+cell_7438,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3685,3676,13408,7,0.052207638
+cell_4033,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2203,2199,5289,8,0.15125732
+cell_12908,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,8368,8273,49690,11,0.02213725
+cell_20098,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2918,2896,6363,23,0.3614647
+cell_22998,INH,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,5754,5710,26667,6,0.02249972
+cell_12241,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4825,4773,17632,32,0.1814882
+cell_1461,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3331,3316,8857,1,0.011290505
+cell_15661,ODC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,2963,2955,9406,9,0.095683604
+cell_18071,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3023,3011,8702,10,0.114916116
+cell_6055,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4438,4410,13148,50,0.38028598
+cell_15126,INH,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,8911,8795,54018,185,0.34247845
+cell_5552,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2378,2371,5177,5,0.096581034
+cell_4938,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2003,1996,5459,2,0.036636747
+cell_13088,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2833,2829,8088,2,0.02472799
+cell_3107,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2356,2346,7386,0,0
+cell_12514,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,8518,8403,48768,152,0.31167978
+cell_3834,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2456,2452,7036,10,0.1421262
+cell_17129,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4282,4243,13021,11,0.08447892
+cell_12188,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3344,3325,8010,17,0.2122347
+cell_20332,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3061,3056,8490,6,0.07067138
+cell_566,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2875,2869,8112,18,0.22189349
+cell_1754,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,7818,7735,43339,17,0.039225638
+cell_17107,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4480,4445,15183,10,0.06586314
+cell_15176,ODC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,4046,4022,12152,0,0
+cell_23696,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3280,3267,10923,23,0.21056487
+cell_14255,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2591,2581,5472,2,0.03654971
+cell_3779,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3763,3749,13815,8,0.057908073
+cell_17979,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,8578,8476,65698,11,0.01674328
+cell_13087,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2313,2308,5889,13,0.22075056
+cell_3050,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2235,2228,4645,3,0.064585574
+cell_912,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3269,3262,9800,0,0
+cell_20335,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3005,2994,8711,0,0
+cell_13271,ODC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,2720,2715,7477,13,0.17386653
+cell_13747,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,8741,8627,74267,18,0.024236875
+cell_11950,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2536,2528,4607,3,0.0651183
+cell_21729,ASC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,3756,3735,11840,4,0.033783786
+cell_15981,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2724,2715,6032,27,0.44761273
+cell_14483,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3448,3417,8370,2,0.023894863
+cell_21824,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3956,3935,14986,1,0.006672895
+cell_9107,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2984,2969,9074,1,0.011020498
+cell_16915,OPC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5210,5179,22448,7,0.03118318
+cell_5306,ODC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,2139,2134,6510,55,0.8448541
+cell_7504,ASC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,4836,4797,18606,6,0.032247663
+cell_337,ODC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,2300,2293,5475,9,0.16438356
+cell_14940,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3314,3304,10764,4,0.037160907
+cell_11494,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,7582,7514,45952,3,0.006528552
+cell_19179,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3832,3808,11854,1,0.008435971
+cell_4654,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2946,2938,8424,6,0.07122507
+cell_19641,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3223,3210,9348,2,0.021394951
+cell_23725,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2513,2505,6636,6,0.09041592
+cell_15059,OPC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,3924,3894,11527,3,0.026025852
+cell_18127,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2662,2659,7386,3,0.040617384
+cell_5418,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3134,3119,8526,20,0.2345766
+cell_16270,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2871,2861,9511,0,0
+cell_22426,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2363,2352,6656,3,0.045072116
+cell_10021,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,7684,7612,49707,7,0.014082524
+cell_20025,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2903,2896,8078,1,0.012379301
+cell_21295,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2263,2256,5613,0,0
+cell_2094,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2077,2072,5332,2,0.037509378
+cell_16540,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2509,2503,6147,3,0.048804294
+cell_18603,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2446,2441,6055,0,0
+cell_14888,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2641,2636,7280,21,0.28846154
+cell_2703,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2803,2798,8158,3,0.03677372
+cell_18582,PER.END,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,2380,2354,7692,14,0.18200728
+cell_9734,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2881,2870,7968,1,0.0125502
+cell_2467,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3727,3712,11852,11,0.09281134
+cell_20967,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2691,2683,7510,0,0
+cell_6541,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2958,2947,7941,4,0.05037149
+cell_11079,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3423,3409,10996,5,0.04547108
+cell_17492,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3782,3751,9326,2,0.021445422
+cell_7097,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5176,5141,18912,14,0.07402707
+cell_21983,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3326,3303,6952,14,0.20138091
+cell_17178,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2621,2613,8295,1,0.012055455
+cell_14909,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3235,3227,10020,2,0.01996008
+cell_2731,ASC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,3931,3910,11907,0,0
+cell_12358,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2383,2375,7508,5,0.06659563
+cell_20424,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3476,3450,9671,9,0.09306173
+cell_15442,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3133,3112,7560,1,0.013227513
+cell_10640,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2783,2777,7469,20,0.26777348
+cell_9646,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,7577,7533,39549,1,0.002528509
+cell_10646,ODC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,2548,2538,6299,0,0
+cell_13190,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2648,2645,7065,0,0
+cell_18001,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2953,2944,8749,7,0.08000914
+cell_13225,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3076,3062,8280,2,0.024154589
+cell_7086,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,3006,2997,9398,9,0.095765054
+cell_14054,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2734,2730,7934,0,0
+cell_13939,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2230,2225,5831,12,0.20579661
+cell_10186,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4889,4867,20265,10,0.04934616
+cell_15798,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2793,2786,8188,1,0.012212995
+cell_8496,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2842,2837,7373,5,0.067815
+cell_20949,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3596,3570,9399,47,0.5000532
+cell_299,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4528,4500,14066,23,0.16351485
+cell_709,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2963,2955,8075,8,0.099071205
+cell_18889,ASC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,3970,3953,12571,23,0.1829608
+cell_23400,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6466,6407,28517,54,0.18936074
+cell_16043,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6743,6699,38018,12,0.031563994
+cell_16655,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4251,4232,16723,4,0.023919154
+cell_6021,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2488,2478,7379,3,0.040655915
+cell_18163,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2861,2844,5745,2,0.034812883
+cell_5023,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3337,3325,12163,6,0.049329933
+cell_7835,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3702,3688,13428,7,0.05212988
+cell_12325,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4218,4191,13293,3,0.022568269
+cell_8865,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2663,2650,5881,11,0.18704303
+cell_20791,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,8441,8349,59268,17,0.028683268
+cell_9384,OPC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5830,5795,27897,6,0.021507688
+cell_15470,ASC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,3211,3193,7786,2,0.02568713
+cell_19802,ASC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,2815,2791,8131,0,0
+cell_9336,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3714,3698,10452,2,0.019135093
+cell_1785,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4443,4410,15927,10,0.06278646
+cell_17395,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2608,2598,6780,27,0.39823008
+cell_8394,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2159,2153,5462,5,0.09154156
+cell_6091,ODC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,2048,2039,4691,7,0.14922191
+cell_17653,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3044,3029,8386,0,0
+cell_14400,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2710,2703,8806,8,0.09084715
+cell_21820,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2281,2276,6172,9,0.14581983
+cell_23844,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3040,3034,8854,1,0.011294331
+cell_6891,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2944,2934,9002,3,0.03332593
+cell_7329,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2993,2985,7768,1,0.012873327
+cell_10720,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3789,3773,13434,3,0.022331398
+cell_12130,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4823,4808,22099,108,0.4887099
+cell_23151,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2306,2301,5741,4,0.069674276
+cell_11604,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6293,6253,28774,66,0.22937374
+cell_13716,OPC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6752,6692,33112,36,0.10872191
+cell_24042,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4408,4379,18490,2,0.010816658
+cell_5588,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2768,2754,8568,3,0.035014007
+cell_9257,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3304,3287,10202,3,0.029405998
+cell_6282,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3723,3695,11927,7,0.058690365
+cell_19031,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,9091,8987,76239,17,0.022298299
+cell_17870,ASC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,4678,4641,19636,9,0.045834184
+cell_4777,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6508,6449,30578,1,0.003270325
+cell_449,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2146,2144,5654,4,0.07074638
+cell_15587,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2504,2485,6136,17,0.27705345
+cell_8580,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2191,2190,5296,1,0.018882176
+cell_7228,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3390,3376,11232,1,0.008903134
+cell_18240,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2444,2437,5772,2,0.034650035
+cell_356,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2913,2904,9075,35,0.38567492
+cell_6654,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3309,3295,10191,0,0
+cell_9202,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2678,2667,7305,10,0.13689254
+cell_9406,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2537,2531,7002,2,0.028563268
+cell_19457,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2749,2740,8127,0,0
+cell_836,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2988,2981,8698,2,0.022993792
+cell_21375,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2240,2235,5823,1,0.01717328
+cell_22628,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3899,3884,13623,7,0.051383693
+cell_11983,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5617,5577,26333,5,0.018987581
+cell_1583,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2975,2965,9614,2,0.020802995
+cell_22982,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2618,2607,7517,3,0.039909538
+cell_4292,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2615,2610,7950,0,0
+cell_588,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2244,2235,5575,4,0.07174888
+cell_7714,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2303,2297,6154,1,0.016249593
+cell_5330,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3046,3038,8800,1,0.011363637
+cell_14082,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2129,2123,4765,2,0.04197272
+cell_17157,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3096,3086,9463,1,0.010567473
+cell_13299,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,3184,3167,7240,14,0.19337016
+cell_22015,EX,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,5802,5763,22629,6,0.02651465
+cell_18418,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2146,2141,5835,0,0
+cell_23471,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6879,6833,33721,123,0.36475787
+cell_22819,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4905,4881,16797,57,0.33934632
+cell_19971,OPC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,5100,5069,21298,13,0.061038595
+cell_16828,ASC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,4102,4075,13520,8,0.0591716
+cell_20392,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4571,4549,17750,24,0.13521126
+cell_16084,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2165,2163,5259,3,0.05704507
+cell_11231,ODC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,2873,2870,9039,16,0.17701073
+cell_23724,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2332,2327,6530,3,0.045941807
+cell_12382,EX,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,9300,9138,66761,40,0.05991522
+cell_9357,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2753,2746,6712,13,0.19368295
+cell_24113,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3296,3286,9987,35,0.35045558
+cell_15353,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2294,2290,5842,20,0.34234852
+cell_10790,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3255,3243,9756,5,0.051250514
+cell_8565,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2367,2355,4981,0,0
+cell_17327,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2901,2886,8708,0,0
+cell_14684,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2371,2363,5536,0,0
+cell_16910,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,3805,3788,9497,10,0.10529641
+cell_10672,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4226,4214,15081,1,0.00663086
+cell_5566,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,5389,5369,21966,15,0.06828735
+cell_6796,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2510,2504,6831,3,0.043917436
+cell_8438,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3406,3390,8309,79,0.9507762
+cell_22997,OPC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4714,4683,15301,14,0.09149729
+cell_14961,OPC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5624,5589,24072,7,0.02907943
+cell_1612,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3086,3075,8056,7,0.086891755
+cell_20300,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2622,2614,7260,30,0.41322312
+cell_5616,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2839,2825,8193,5,0.061027706
+cell_9522,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2219,2210,4933,0,0
+cell_3008,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4304,4278,16582,35,0.21107225
+cell_7665,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4923,4897,15443,58,0.37557468
+cell_18553,OPC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3610,3590,11219,13,0.11587485
+cell_23800,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,7748,7678,49146,1,0.002034754
+cell_16836,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2224,2214,4166,9,0.21603456
+cell_3597,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2595,2588,6699,0,0
+cell_8244,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2749,2741,7121,8,0.11234378
+cell_18086,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,7355,7280,40407,49,0.12126611
+cell_23927,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3954,3920,12831,5,0.038968123
+cell_4822,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2667,2659,7160,4,0.05586592
+cell_19823,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2444,2437,5414,7,0.12929443
+cell_8844,OPC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,3851,3836,11638,20,0.17185083
+cell_4877,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2243,2238,4773,0,0
+cell_22633,EX,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,7552,7485,41460,0,0
+cell_8210,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2598,2588,7013,5,0.07129616
+cell_1565,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2600,2590,7584,0,0
+cell_11362,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2941,2935,8839,0,0
+cell_2178,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2943,2933,9185,9,0.09798585
+cell_12065,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2638,2628,6664,12,0.18007202
+cell_10006,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2945,2940,7712,2,0.025933612
+cell_11696,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2366,2356,5861,1,0.017061934
+cell_3575,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2635,2634,7737,2,0.025849812
+cell_14978,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3677,3663,12664,0,0
+cell_7296,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2722,2713,8241,2,0.0242689
+cell_16963,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2783,2773,8264,4,0.04840271
+cell_10591,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2367,2363,7576,4,0.052798312
+cell_15006,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3321,3307,10740,3,0.02793296
+cell_10728,OPC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2598,2588,6326,2,0.031615555
+cell_6721,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5683,5644,21214,30,0.14141604
+cell_1871,MG,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2087,2068,4106,4,0.09741841
+cell_2154,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,4573,4555,18274,2,0.010944512
+cell_11881,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2378,2366,5495,0,0
+cell_20359,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,9367,9230,99557,11,0.011048947
+cell_4217,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2644,2633,7005,4,0.05710207
+cell_12734,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2373,2370,6690,0,0
+cell_15549,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3182,3171,9350,1,0.010695187
+cell_2189,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2192,2178,4958,1,0.020169424
+cell_19940,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3093,3083,6973,9,0.12906927
+cell_1695,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2450,2442,6840,0,0
+cell_5883,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3122,3109,9984,4,0.040064104
+cell_16168,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,7178,7107,46393,1,0.002155497
+cell_17181,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3314,3304,10165,1,0.009837679
+cell_13671,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2454,2448,6406,1,0.015610365
+cell_19369,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,6947,6875,36494,20,0.05480353
+cell_905,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,4526,4513,12059,4,0.033170246
+cell_15521,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2047,2042,4495,0,0
+cell_13994,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2407,2405,5995,1,0.016680567
+cell_19491,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6658,6612,36887,1,0.002710982
+cell_20753,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3238,3227,9597,4,0.04167969
+cell_21776,OPC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4439,4403,14808,16,0.108049706
+cell_4891,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3109,3101,9148,4,0.043725405
+cell_9757,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3910,3890,14136,4,0.028296549
+cell_16309,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,7881,7802,47944,19,0.039629567
+cell_16003,ASC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,3805,3779,14529,3,0.020648358
+cell_206,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2630,2625,6985,6,0.085898355
+cell_5417,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3063,3049,9542,0,0
+cell_7781,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2543,2533,7746,2,0.025819778
+cell_7486,ASC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,4114,4085,14589,0,0
+cell_6786,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4124,4107,16081,1,0.006218519
+cell_18152,ODC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,3079,3063,8923,3,0.03362098
+cell_5081,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,6128,6085,27861,2,0.007178493
+cell_11822,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2141,2136,5444,4,0.07347538
+cell_19347,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4314,4281,13622,4,0.029364264
+cell_2397,INH,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,7469,7391,48743,22,0.045134686
+cell_6254,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4485,4460,13502,9,0.06665679
+cell_5070,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2461,2456,6989,1,0.014308198
+cell_21586,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6415,6372,30584,5,0.016348418
+cell_12381,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2245,2231,4297,16,0.3723528
+cell_8109,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2198,2190,5117,14,0.27359784
+cell_2432,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4408,4388,18526,14,0.075569466
+cell_4852,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2803,2792,7727,1,0.012941633
+cell_65,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3473,3460,8736,2,0.022893773
+cell_20774,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2990,2977,7225,2,0.02768166
+cell_23102,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3084,3070,9337,1,0.010710078
+cell_22138,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3211,3199,8975,2,0.022284122
+cell_16769,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2009,2003,4514,2,0.0443066
+cell_1977,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3393,3379,11096,6,0.05407354
+cell_18984,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3600,3578,11388,3,0.026343519
+cell_13184,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,8474,8368,61661,22,0.035678953
+cell_20779,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6932,6861,35666,11,0.030841699
+cell_18369,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2848,2840,7902,4,0.050620094
+cell_13478,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2827,2815,8500,2,0.023529412
+cell_20976,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2226,2223,5431,0,0
+cell_6267,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,3526,3509,8703,19,0.21831551
+cell_21466,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3250,3242,9914,0,0
+cell_12745,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2273,2267,6227,0,0
+cell_9580,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6797,6746,33800,36,0.10650888
+cell_23363,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,4283,4262,15032,56,0.37253857
+cell_2698,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3713,3689,12452,14,0.11243174
+cell_1555,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,7167,7104,35133,11,0.031309593
+cell_11539,MG,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2957,2927,7146,14,0.1959138
+cell_5151,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,7970,7901,50834,3,0.005901562
+cell_750,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,3225,3213,9779,5,0.05112997
+cell_14368,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3201,3190,10681,3,0.028087256
+cell_5416,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2430,2423,7357,1,0.013592497
+cell_7002,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3742,3727,12498,19,0.15202433
+cell_19181,INH,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,6864,6819,33232,21,0.06319211
+cell_7354,MG,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2751,2718,6849,3,0.043802015
+cell_14779,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,8092,8032,60596,12,0.019803287
+cell_14625,OPC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,5217,5191,17556,13,0.07404876
+cell_2511,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2939,2922,6869,0,0
+cell_14300,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3477,3471,11769,2,0.016993798
+cell_5102,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4504,4468,14892,10,0.06715015
+cell_8269,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3147,3132,8887,5,0.056261953
+cell_20428,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3523,3511,10385,5,0.048146363
+cell_22299,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2762,2744,6295,2,0.031771246
+cell_296,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3039,3028,9162,20,0.21829295
+cell_12847,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2899,2891,8592,0,0
+cell_7007,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4070,4059,11492,22,0.19143753
+cell_15485,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2708,2702,7581,1,0.013190872
+cell_11240,MG,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2225,2212,4534,4,0.08822232
+cell_1421,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2086,2081,4704,33,0.7015306
+cell_10718,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3391,3375,11007,0,0
+cell_16058,EX,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3542,3516,14133,9,0.063680746
+cell_13168,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,8981,8881,71315,13,0.018228984
+cell_9808,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3271,3258,9845,1,0.010157441
+cell_10008,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2920,2907,8361,2,0.023920584
+cell_2663,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3108,3097,9951,1,0.010049242
+cell_15128,ODC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,2585,2576,6105,7,0.114660114
+cell_5212,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2347,2341,6070,0,0
+cell_23340,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2724,2705,5623,2,0.0355682
+cell_9159,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3366,3358,10643,7,0.06577093
+cell_9605,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2606,2599,6900,1,0.014492753
+cell_12390,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6090,6037,28404,9,0.031685676
+cell_2484,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4199,4167,14043,5,0.035604928
+cell_22931,ODC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,2158,2149,4996,0,0
+cell_18805,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3544,3527,9030,17,0.18826135
+cell_4478,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2190,2183,4254,0,0
+cell_7213,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2852,2836,8062,1,0.012403871
+cell_17079,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2684,2677,7250,2,0.027586209
+cell_20248,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2801,2799,7635,2,0.026195154
+cell_13887,ODC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,2374,2367,6719,0,0
+cell_4803,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2735,2731,6713,1,0.014896469
+cell_13640,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2629,2617,7274,1,0.013747594
+cell_13388,INH,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,6603,6552,32761,14,0.04273374
+cell_21328,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,7567,7486,44995,16,0.035559505
+cell_14167,ASC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,3438,3414,9734,11,0.11300596
+cell_16110,ODC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,2547,2535,6429,4,0.062218077
+cell_19411,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3499,3483,13268,28,0.21103406
+cell_1164,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2179,2171,4843,10,0.20648357
+cell_9020,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4733,4695,17158,21,0.12239189
+cell_17708,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2121,2116,4698,1,0.021285653
+cell_2491,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3885,3867,15355,10,0.06512537
+cell_2502,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3121,3115,10533,7,0.0664578
+cell_9421,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2573,2557,6374,0,0
+cell_12324,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3591,3576,9611,12,0.124856934
+cell_3122,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3221,3212,10363,15,0.14474574
+cell_21778,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3600,3583,10893,1,0.009180208
+cell_11365,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3038,3029,9531,2,0.020984158
+cell_12223,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2512,2503,6866,1,0.014564522
+cell_5988,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3738,3713,9970,4,0.04012036
+cell_21258,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2738,2731,8318,3,0.036066364
+cell_10324,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2879,2861,6429,2,0.031109039
+cell_9667,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4511,4479,15044,1,0.006647169
+cell_3402,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2403,2396,6562,3,0.04571777
+cell_1890,ASC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2709,2682,6141,3,0.048851978
+cell_16717,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2838,2827,6700,11,0.1641791
+cell_5922,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3824,3802,10868,3,0.027603976
+cell_1287,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6602,6544,30990,48,0.15488867
+cell_15896,EX,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,3772,3751,9352,2,0.0213858
+cell_3737,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3360,3351,11270,3,0.026619345
+cell_24064,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2277,2269,5431,4,0.07365126
+cell_12809,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2383,2377,6165,2,0.032441203
+cell_20225,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2412,2404,6401,5,0.078112796
+cell_8812,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,5906,5874,24690,22,0.0891049
+cell_13533,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4456,4432,20157,0,0
+cell_14995,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4381,4357,13891,55,0.39593983
+cell_17240,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4460,4445,16751,32,0.19103338
+cell_16153,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2926,2914,7703,3,0.038945865
+cell_7445,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3622,3601,13568,3,0.02211085
+cell_1648,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4536,4509,16336,0,0
+cell_1613,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,5047,5011,14434,19,0.13163364
+cell_14942,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4118,4101,13154,4,0.030409
+cell_1781,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,6854,6803,32248,23,0.071322255
+cell_17151,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4401,4388,15419,80,0.51884043
+cell_19313,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2976,2961,7762,3,0.03864983
+cell_22899,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2831,2818,8245,2,0.024257125
+cell_324,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2496,2490,6639,1,0.01506251
+cell_10995,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3565,3555,12462,1,0.008024394
+cell_108,OPC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5360,5325,21980,6,0.027297541
+cell_19380,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3658,3640,11715,3,0.025608195
+cell_14675,ASC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,3844,3814,11787,21,0.17816238
+cell_1913,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,6752,6703,28595,101,0.3532086
+cell_18785,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2703,2696,7999,5,0.062507816
+cell_19507,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2964,2955,8919,37,0.4148447
+cell_13768,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2622,2614,6375,4,0.0627451
+cell_8963,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3379,3367,11442,7,0.061178114
+cell_16324,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3469,3456,11340,6,0.052910052
+cell_20116,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2250,2247,4960,22,0.44354838
+cell_9687,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3570,3557,11802,5,0.0423657
+cell_903,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2268,2261,5436,1,0.018395878
+cell_17824,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4037,4000,11517,2,0.017365633
+cell_13607,ODC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,2816,2808,8023,0,0
+cell_17270,OPC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,4669,4650,16184,9,0.05561048
+cell_5431,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2184,2180,4569,3,0.06565988
+cell_381,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2481,2473,5901,2,0.03389256
+cell_19161,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2364,2354,5569,1,0.017956546
+cell_5068,OPC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3978,3956,11271,24,0.21293585
+cell_11727,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4015,3988,12560,8,0.06369427
+cell_14838,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2960,2954,8677,24,0.27659327
+cell_22318,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3798,3770,10388,11,0.105891414
+cell_6269,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2791,2778,8112,1,0.012327416
+cell_10901,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3419,3408,10074,3,0.02977963
+cell_8264,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3254,3235,8756,1,0.011420741
+cell_1771,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2905,2897,9136,14,0.15323994
+cell_17301,OPC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3210,3200,7850,4,0.05095541
+cell_11549,MG,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,2112,2100,5052,2,0.03958828
+cell_3570,ODC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,2758,2749,7317,1,0.013666804
+cell_19908,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,8434,8350,46129,8,0.01734267
+cell_11222,EX,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,7872,7791,47233,4,0.008468655
+cell_23480,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2394,2391,7075,0,0
+cell_5492,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2189,2183,4194,0,0
+cell_17906,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2975,2967,8289,4,0.048256725
+cell_8252,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2764,2755,7980,2,0.025062656
+cell_16414,OPC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3605,3595,9249,7,0.07568386
+cell_17357,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2180,2171,4964,0,0
+cell_6681,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3138,3124,9511,5,0.052570708
+cell_6414,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2309,2302,5670,0,0
+cell_3710,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2142,2140,5406,1,0.018497966
+cell_5361,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5691,5646,20118,2,0.009941346
+cell_17755,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2582,2579,6776,10,0.14757968
+cell_4182,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2023,2021,4267,7,0.16404969
+cell_8451,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4987,4951,14688,3,0.020424837
+cell_7179,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2266,2257,4544,9,0.19806337
+cell_22244,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4819,4778,16064,12,0.0747012
+cell_11609,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3714,3701,13125,1,0.007619048
+cell_8273,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2396,2389,5946,23,0.38681465
+cell_20328,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2927,2915,8125,2,0.024615385
+cell_19237,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4196,4175,16577,2,0.01206491
+cell_11179,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2845,2834,7624,3,0.03934942
+cell_22921,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3146,3128,7061,2,0.028324598
+cell_20422,ODC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,3276,3260,10269,3,0.02921414
+cell_11689,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,8785,8695,58527,15,0.025629196
+cell_1791,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4039,4016,13301,29,0.21802871
+cell_13485,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6379,6337,27650,54,0.19529837
+cell_1734,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3740,3713,13857,4,0.028866276
+cell_15761,OPC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4853,4823,14800,7,0.0472973
+cell_5115,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2115,2115,4592,0,0
+cell_2407,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3326,3310,10189,3,0.02944352
+cell_12254,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2953,2938,7279,1,0.013738151
+cell_12207,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4526,4493,15645,14,0.08948546
+cell_9341,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3505,3492,12337,1,0.008105698
+cell_14982,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2821,2812,8445,0,0
+cell_13208,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2336,2329,5945,0,0
+cell_20547,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2896,2891,7718,2,0.025913449
+cell_19528,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4143,4123,16535,1,0.006047777
+cell_12398,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3121,3114,9567,3,0.03135779
+cell_11474,EX,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,7140,7071,30689,90,0.2932647
+cell_16421,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2336,2328,6343,8,0.1261233
+cell_2585,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3182,3172,10749,1,0.009303191
+cell_8518,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2083,2079,4660,4,0.08583691
+cell_2522,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3188,3171,8041,1,0.012436265
+cell_22321,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,4050,4018,12885,38,0.29491657
+cell_12513,EX,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,6058,6000,24009,2,0.00833021
+cell_17143,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2892,2885,8067,1,0.012396181
+cell_21741,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3390,3361,8627,13,0.15068969
+cell_7529,EX,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,7385,7320,38198,1,0.002617938
+cell_23128,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3234,3225,11633,2,0.01719247
+cell_23453,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6038,5996,22573,1,0.004430071
+cell_14072,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2908,2899,8630,0,0
+cell_10989,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2781,2771,7255,0,0
+cell_18056,MG,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,3632,3605,10511,25,0.23784608
+cell_105,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,5899,5861,22053,39,0.17684668
+cell_2064,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4318,4293,16828,6,0.03565486
+cell_21135,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2000,1988,5350,0,0
+cell_7374,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3072,3063,9158,1,0.010919414
+cell_20172,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3157,3144,9064,1,0.011032657
+cell_8829,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2857,2848,7933,1,0.012605572
+cell_24088,ODC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,2988,2973,7460,11,0.14745308
+cell_1087,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3376,3361,8797,1,0.011367512
+cell_16517,ASC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,3918,3893,12155,0,0
+cell_13718,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3501,3488,11520,9,0.078125
+cell_1124,ASC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2045,2032,4044,6,0.14836796
+cell_22727,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2732,2726,6987,5,0.07156147
+cell_23182,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2453,2451,6355,4,0.062942564
+cell_3949,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2965,2955,9691,1,0.010318853
+cell_14627,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2464,2458,6504,1,0.015375153
+cell_2148,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2612,2604,6818,4,0.05866823
+cell_12194,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,7395,7324,46260,2,0.00432339
+cell_14423,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,3332,3323,9692,1,0.010317788
+cell_20516,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2789,2778,7243,1,0.013806433
+cell_18822,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2471,2462,6008,4,0.0665779
+cell_23994,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2617,2611,6773,1,0.014764505
+cell_12929,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2658,2648,7074,4,0.056545094
+cell_17076,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3091,3080,8847,3,0.0339098
+cell_18481,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,7843,7771,50247,9,0.017911518
+cell_21813,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3369,3357,10375,21,0.20240964
+cell_12613,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5504,5464,17618,3,0.01702804
+cell_20226,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3644,3624,9919,3,0.030244986
+cell_23317,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2566,2556,6358,13,0.20446682
+cell_14933,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2703,2695,7764,2,0.025759917
+cell_16286,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3589,3574,9523,24,0.25202143
+cell_5318,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3748,3722,10233,8,0.07817844
+cell_15797,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2751,2742,6989,22,0.31478038
+cell_7408,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3144,3130,8859,2,0.022575911
+cell_1521,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2154,2150,5705,0,0
+cell_9470,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3167,3158,9933,5,0.05033726
+cell_20355,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,5277,5253,20554,28,0.13622652
+cell_664,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2812,2803,7816,16,0.2047083
+cell_9607,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,3860,3843,11569,25,0.21609473
+cell_22502,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4432,4399,14169,6,0.042345967
+cell_22260,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,5049,5021,19595,9,0.045930084
+cell_19429,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3311,3297,12139,3,0.024713732
+cell_22884,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,7114,7064,39381,34,0.086336054
+cell_23170,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3105,3096,8490,1,0.011778563
+cell_15881,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3805,3782,10742,8,0.07447402
+cell_22108,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3851,3823,11087,9,0.081176154
+cell_23036,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,5559,5522,23222,4,0.017225046
+cell_12606,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2108,2104,5419,2,0.036907177
+cell_4936,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2805,2797,7395,17,0.22988506
+cell_5869,MG,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2300,2279,5583,1,0.017911518
+cell_21037,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2448,2442,6709,4,0.0596214
+cell_12430,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3413,3399,12231,3,0.024527838
+cell_15306,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2398,2394,7153,4,0.055920593
+cell_10257,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,8513,8427,68820,5,0.00726533
+cell_8059,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2939,2935,8970,7,0.0780379
+cell_718,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3172,3156,7250,0,0
+cell_12529,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,9292,9165,71199,4,0.005618056
+cell_8546,OPC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4045,4017,14208,6,0.04222973
+cell_6662,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2031,2025,4901,4,0.08161599
+cell_9428,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3163,3141,8860,0,0
+cell_16012,ODC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,2562,2559,6844,66,0.9643483
+cell_518,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2247,2242,5802,0,0
+cell_16623,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2082,2081,5841,1,0.017120356
+cell_1338,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,4388,4369,11912,6,0.05036938
+cell_4995,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3569,3546,9514,7,0.07357578
+cell_1988,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3244,3230,9793,3,0.030634128
+cell_9204,EX,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,4360,4329,13512,4,0.029603316
+cell_14196,ODC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,3036,3022,9154,7,0.0764693
+cell_12951,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,6004,5963,23816,17,0.071380585
+cell_23296,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,3938,3910,11184,10,0.08941345
+cell_3867,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3303,3283,8293,0,0
+cell_19615,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3484,3455,8992,1,0.011120996
+cell_9215,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3914,3890,12021,3,0.024956325
+cell_9866,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,3078,3068,10335,2,0.019351717
+cell_8083,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,9687,9581,85383,8,0.009369547
+cell_3376,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2317,2309,5884,2,0.033990484
+cell_1974,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2782,2773,7018,5,0.071245365
+cell_10446,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,9414,9282,81583,3,0.003677237
+cell_16694,INH,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,6478,6437,29995,4,0.013335556
+cell_9581,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,8658,8556,61481,2,0.003253037
+cell_23783,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2699,2675,6183,1,0.016173378
+cell_9094,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2042,2040,4731,5,0.105685905
+cell_18893,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2012,2010,4719,2,0.04238186
+cell_18456,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2412,2407,6429,3,0.046663556
+cell_2682,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5924,5872,28270,32,0.113194205
+cell_11859,ASC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,3784,3766,11455,16,0.139677
+cell_9404,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6115,6074,32243,3,0.009304346
+cell_17758,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2662,2654,6601,32,0.48477507
+cell_4151,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2756,2746,5310,5,0.09416196
+cell_14842,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2401,2394,5238,7,0.1336388
+cell_8967,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4234,4202,14180,3,0.021156559
+cell_7572,INH,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5991,5954,28214,0,0
+cell_7532,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2883,2879,8998,25,0.27783954
+cell_9440,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2668,2660,7446,1,0.013430029
+cell_17657,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,7771,7691,52792,54,0.10228823
+cell_13813,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4637,4600,16423,2,0.012178043
+cell_23631,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2181,2174,4815,6,0.12461059
+cell_22718,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2657,2648,8442,0,0
+cell_23276,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3239,3231,9003,2,0.022214817
+cell_8708,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3407,3398,10220,3,0.029354207
+cell_15806,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,9532,9397,83312,3,0.003600922
+cell_3618,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2471,2459,6808,1,0.014688602
+cell_14875,ODC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,2927,2921,8116,53,0.65303105
+cell_11452,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3058,3045,9246,7,0.07570842
+cell_17598,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2360,2344,4516,4,0.088573955
+cell_22678,ASC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5196,5146,20702,13,0.06279586
+cell_2850,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2275,2268,5145,1,0.019436346
+cell_16515,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2361,2356,5905,1,0.0169348
+cell_9517,ASC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3260,3228,7330,8,0.109140515
+cell_22889,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,5981,5942,29577,3,0.010143016
+cell_18337,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3344,3338,9989,1,0.010011012
+cell_12946,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2847,2845,8295,0,0
+cell_9709,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,7721,7646,47662,2,0.004196215
+cell_16366,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4730,4706,18590,11,0.0591716
+cell_8650,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2706,2694,8527,0,0
+cell_23808,ASC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,4775,4743,24201,19,0.07850915
+cell_7979,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3448,3422,9341,0,0
+cell_11024,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4250,4215,14262,8,0.056093115
+cell_21370,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3078,3066,10150,16,0.15763548
+cell_16048,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3006,2996,9067,2,0.022058012
+cell_23188,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,4568,4545,19214,6,0.031227231
+cell_17415,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,5016,4972,18404,12,0.06520321
+cell_16884,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2692,2680,5683,6,0.10557804
+cell_14975,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4164,4143,13147,48,0.36510232
+cell_14002,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3834,3826,14194,7,0.049316615
+cell_8521,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2481,2472,5397,1,0.018528812
+cell_21302,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,3290,3276,9498,3,0.031585597
+cell_14425,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3390,3376,10213,36,0.35249192
+cell_20356,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6133,6094,26551,6,0.022598019
+cell_4697,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4184,4163,14119,51,0.36121538
+cell_20489,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2435,2433,7155,3,0.04192872
+cell_9097,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2151,2146,4844,2,0.041288193
+cell_20788,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2216,2213,5507,4,0.07263483
+cell_252,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2062,2055,4853,1,0.02060581
+cell_3569,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2981,2974,9277,2,0.021558693
+cell_23653,MG,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,3298,3276,8205,9,0.10968922
+cell_4841,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2848,2832,8938,2,0.022376372
+cell_3320,OPC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4156,4125,13699,4,0.029199213
+cell_15484,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2638,2626,6796,1,0.014714537
+cell_22444,ASC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,2039,2028,6257,5,0.079910494
+cell_8201,EX,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,4743,4706,12221,5,0.04091318
+cell_581,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3210,3199,9373,12,0.1280273
+cell_18184,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2061,2054,4529,3,0.06623979
+cell_12355,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3583,3563,13584,3,0.022084806
+cell_10376,OPC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,8122,8049,48020,90,0.1874219
+cell_18193,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,9367,9241,79156,44,0.055586435
+cell_23969,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,2353,2349,6062,1,0.016496206
+cell_22500,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2183,2175,5030,2,0.03976143
+cell_9298,OPC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,6508,6442,31888,64,0.20070246
+cell_18004,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,8162,8069,47467,3,0.00632018
+cell_1800,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4018,3999,14987,4,0.0266898
+cell_18297,ODC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,2166,2156,5536,25,0.4515896
+cell_11267,INH,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,8294,8192,61376,46,0.074947864
+cell_10935,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2763,2757,7137,6,0.08406893
+cell_6677,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3161,3147,8235,3,0.036429875
+cell_5725,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3451,3443,10783,2,0.018547714
+cell_17055,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2813,2803,7472,2,0.026766594
+cell_21551,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4192,4172,14526,25,0.1721052
+cell_18302,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2685,2679,6014,16,0.2660459
+cell_8474,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3943,3931,13823,3,0.02170296
+cell_14342,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4056,4035,15249,6,0.039346844
+cell_11714,ODC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,2114,2109,5080,6,0.11811024
+cell_1483,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3090,3075,10979,1,0.009108298
+cell_13732,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2231,2229,5367,6,0.1117943
+cell_9451,ASC,Sample-82,2,79,M,5,Stage 1,Stage A,Control,9,tr,3180,3165,9772,5,0.0511666
+cell_20745,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2419,2413,6824,2,0.029308323
+cell_5814,EX,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,5870,5813,23334,3,0.012856776
+cell_16967,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3080,3073,9858,4,0.040576182
+cell_19956,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,3111,3095,7669,12,0.15647411
+cell_1581,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2842,2833,7849,8,0.101923816
+cell_17109,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3360,3352,11109,2,0.018003419
+cell_14788,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3891,3868,10876,2,0.018389113
+cell_13537,MG,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,2404,2379,5591,2,0.035771776
+cell_5055,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,4518,4487,15279,5,0.032724656
+cell_15086,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3487,3473,10912,32,0.29325512
+cell_20313,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2227,2218,5679,3,0.0528262
+cell_21054,EX,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,5671,5643,20117,33,0.16404036
+cell_8494,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2100,2095,5222,9,0.17234775
+cell_2031,ASC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2178,2167,4537,1,0.022040997
+cell_11824,ODC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,2220,2217,5153,10,0.19406171
+cell_12285,ASC,Sample-90,3,79,F,4.25,Stage 1,Stage A,Control,7.3,tr,3808,3786,11883,10,0.08415383
+cell_22858,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3070,3057,8606,6,0.0697188
+cell_22661,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3090,3080,9070,39,0.42998898
+cell_12569,ODC,Sample-96,1,79,M,7,Stage 1,Stage A,Control,7.1,tr,3136,3129,8891,1,0.011247329
+cell_758,ODC,Sample-52,3,83,M,1.8,Stage 2,None,Control,7.2,tr,2328,2322,5613,3,0.05344736
+cell_12120,INH,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,5298,5254,21373,6,0.0280728
+cell_18063,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2900,2892,7961,7,0.08792865
+cell_12487,ODC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,2967,2957,10222,4,0.039131284
+cell_15681,ASC,Sample-58,3,90,M,4,Stage 2,Stage B,Control,8.1,tr,3289,3274,7663,4,0.05219888
+cell_8363,ASC,Sample-100,1,79,M,,Stage 2,Stage B,Control,8.7,tr,3333,3313,7900,5,0.06329114
+cell_10772,ASC,Sample-66,2,90,F,2.92,Stage 2,None,Control,10,tr,2217,2205,4918,1,0.020333469
